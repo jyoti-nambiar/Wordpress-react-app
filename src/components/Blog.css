@@ -1,0 +1,12 @@
+.wrapper-blog {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-blog {
+  width: 85%;
+}
+
+.blog-link {
+  margin: 10px;
+}
